@@ -18,3 +18,12 @@ Esto es una demo de mi aplicación web FooGear en Wagtail. Viene incluido autent
 # Modificar código
 
 ![imagen](https://user-images.githubusercontent.com/91758308/157955373-cda3200d-17ff-412f-8b4a-b8da06218721.png)
+
+# LDAP
+
+![imagen](https://user-images.githubusercontent.com/91758308/157958351-dbf2b85a-2231-4684-9dbc-6f66bb532f56.png)
+
+# SIGNAL 
+
+![imagen](https://user-images.githubusercontent.com/91758308/157958430-4287e5b6-5882-47d1-aad0-6592b50e9178.png)
+
